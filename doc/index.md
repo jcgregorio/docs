@@ -10,6 +10,8 @@ under the BSD Free Software License.  While engineering of the core components
 is done by the Skia development team, we consider contributions from any
 source.
 
+*This has changes!*
+
 Roadmap
 -------
 For a look at high level items we have on tap the next 6-12 months, view our
